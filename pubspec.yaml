@@ -1,0 +1,13 @@
+name: mercure_client
+description: Provide a quick way to publish and consume messages on Mercure
+version: 1.0.0
+homepage: https://github.com/lkaopremier/mercure_client_forked
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies:
+  http: ^1.2.1
+
+dev_dependencies:
+  test: ^1.25.5
